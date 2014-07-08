@@ -1,0 +1,5 @@
+c:\users\naze-\documents\visual studio 2013\Projects\SplayceLogDal\SplayceLogDal\bin\Debug\SplayceLogDal.dll
+c:\users\naze-\documents\visual studio 2013\Projects\SplayceLogDal\SplayceLogDal\bin\Debug\SplayceLogDal.pdb
+c:\users\naze-\documents\visual studio 2013\Projects\SplayceLogDal\SplayceLogDal\obj\Debug\SplayceLogDal.csprojResolveAssemblyReference.cache
+c:\users\naze-\documents\visual studio 2013\Projects\SplayceLogDal\SplayceLogDal\obj\Debug\SplayceLogDal.dll
+c:\users\naze-\documents\visual studio 2013\Projects\SplayceLogDal\SplayceLogDal\obj\Debug\SplayceLogDal.pdb
